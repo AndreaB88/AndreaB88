@@ -1,4 +1,3 @@
-
 # Hello, I'm Andrea! 👋
 
 I'm a sociologist with a passion for data-driven insights and contemporary film studies. Currently, I'm on a journey to master the art of Data Science.
