@@ -1,6 +1,6 @@
 # Andrea Buenaño
 
-## Data Scientist & Data Analyst Jr
+## Data Scientist Jr & Data Analyst Jr
 
 ### 🌱 About Me
 Driven by my passion for learning and innovation, I specialize in revealing patterns and connections in data science. My analytical approach and adaptability have allowed me to influence strategic decisions through powerful insights. I'm ready to bring unique perspectives and transform information into extraordinary results.
