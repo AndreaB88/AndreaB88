@@ -32,6 +32,5 @@ Driven by my passion for learning and innovation, I specialize in revealing patt
 ### 📫 How to Reach Me
 - Email: [acbonano.v@gmail.com](mailto:acbonano.v@gmail.com)
 - LinkedIn: [andreabuena](https://www.linkedin.com/in/andreabuena)
-- GitHub: [AndreaB88](https://github.com/AndreaB88)
 
 
